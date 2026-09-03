@@ -20,3 +20,20 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
 }
+
+.celu{
+    z-index: -1;
+    position:absolute;
+    left: 350px;
+    bottom: 20px;
+
+
+}
+
+.container-servicios{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    
+}
