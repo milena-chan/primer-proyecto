@@ -1,0 +1,39 @@
+.Navbar {
+
+    width: 100%;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding: 10px 40px;
+}
+
+
+.logo-mile {
+
+    width: 100px;
+
+}
+
+
+.navbar-links {
+
+    list-style: none;
+
+    display: flex;
+
+    gap: 30px;
+
+}
+
+
+.navbar-links a {
+
+    color: black;
+
+    text-decoration: none;
+
+}

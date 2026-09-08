@@ -1,0 +1,74 @@
+@media (max-width: 768px) {
+
+    .Navbar {
+        flex-direction: column;
+        gap: 15px;
+
+    }
+
+
+    .navbar-links {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+
+    .sobre-mi {
+        flex-direction: column;
+
+    }
+
+
+    .sobre-imagen,
+    .sobre-texto {
+
+        width: 100%;
+
+    }
+
+
+    .lista-servicios {
+
+        flex-direction: column;
+
+        align-items: center;
+
+    }
+
+
+    .servicio {
+
+        width: 90%;
+
+    }
+
+
+    .portafolio-contenido {
+
+        flex-direction: column;
+
+    }
+
+
+    .portafolio-texto,
+    .portafolio-imagen {
+
+        width: 100%;
+
+    }
+
+
+    .redes {
+
+        flex-direction: column;
+
+    }
+
+
+    .contacto-contenido {
+
+        flex-direction: column;
+
+    }
+
+}
