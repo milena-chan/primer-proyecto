@@ -1,3 +1,11 @@
+@import url(./css/navbar.css);
+@import url(./css/portada.css);
+@import url(./css/portafolio.css);
+@import url(./css/redes.css);
+@import url(./css/responsive.css);
+@import url(./css/servicios.css);
+@import url(./css/sobre-mi.css);
+
 * {
     box-sizing: border-box;
 }
