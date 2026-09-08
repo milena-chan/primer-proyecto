@@ -1,0 +1,48 @@
+.redes {
+
+    width: 90%;
+
+    max-width: 850px;
+
+    margin: 70px auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+
+}
+
+
+.celular {
+
+    width: 300px;
+    position: relative;
+
+}
+
+.celular img {
+
+    width: 100%;
+
+}
+
+.botones-redes {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 10px;
+
+    margin-top: 15px;
+
+}
+
+.redes-texto {
+
+    text-align: center;
+
+    width: 300px;
+
+}

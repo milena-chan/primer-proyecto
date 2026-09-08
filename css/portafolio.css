@@ -1,0 +1,52 @@
+.portafolio {
+
+    width: 90%;
+
+    max-width: 1000px;
+
+    margin: 60px auto;
+
+}
+
+
+.portafolio h2 {
+
+    text-align: center;
+
+}
+
+
+.portafolio-contenido {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 30px;
+
+}
+
+
+.portafolio-texto {
+
+    width: 35%;
+
+}
+
+
+.portafolio-imagen {
+
+    width: 65%;
+
+}
+
+
+.portafolio-imagen img {
+
+    width: 100%;
+
+    height: 350px;
+
+    object-fit: cover;
+
+}
